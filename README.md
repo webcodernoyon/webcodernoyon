@@ -1,5 +1,5 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGNYBZ3TgPs_A/profile-displaybackgroundimage-shrink_350_1400/0/1638802525574?e=1666224000&v=beta&t=80UlAyP8Y-wFAJgcs6tgQRYW_KVQvuxcCh77UW6pNRY)
-# 💫 <p style="color:red">About Me:</p>
+# 💫 About Me:
 <br>I’m currently working on FCTI SOFTWARE DEVELOPMENT COMPANY<br>I’m currently learning PHP<br>I’m looking to collaborate on github<br>Ask me about Web Development<br>
 
 
