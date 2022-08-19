@@ -1,6 +1,6 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGNYBZ3TgPs_A/profile-displaybackgroundimage-shrink_350_1400/0/1638802525574?e=1666224000&v=beta&t=80UlAyP8Y-wFAJgcs6tgQRYW_KVQvuxcCh77UW6pNRY)
 # 💫 About Me:
-I'm Sumit, a Full Stack Web Application Developer from 🇧🇩 Bangladesh. To asses myself as a focused professional in creative and challenging environment using cutting edge technologies where I could constantly learn and successfully deliver solutions to problems with responsibility and where my skill and abilities will be fully utilized.
+I'm Noyon, a Full Stack Web Application Developer from 🇧🇩 Bangladesh. To asses myself as a focused professional in creative and challenging environment using cutting edge technologies where I could constantly learn and successfully deliver solutions to problems with responsibility and where my skill and abilities will be fully utilized.
 
 <br>👉 I’m currently working on FCTI SOFTWARE DEVELOPMENT COMPANY<br>👉 I’m currently learning PHP<br>👉 I’m looking to collaborate on github<br>👉 Ask me about Web Development<br>
 
