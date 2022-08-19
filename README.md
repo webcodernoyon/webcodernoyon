@@ -1,6 +1,8 @@
+(https://media-exp1.licdn.com/dms/image/C4E16AQGNYBZ3TgPs_A/profile-displaybackgroundimage-shrink_350_1400/0/1638802525574?e=1666224000&v=beta&t=80UlAyP8Y-wFAJgcs6tgQRYW_KVQvuxcCh77UW6pNRY)
+
 ### Hi there 👋, I'm Noyon Hossain
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGNYBZ3TgPs_A/profile-displaybackgroundimage-shrink_350_1400/0/1638802525574?e=1666224000&v=beta&t=80UlAyP8Y-wFAJgcs6tgQRYW_KVQvuxcCh77UW6pNRY)
+![Web Developer]
 
 Hi. I am a Professional website designer and developer. I have been designing and developing various category websites for a long time.
 To asses myself as a focused professional in creative and challenging environment using cutting edge technologies where I could constantly learn and successfully deliver solutions to problems with responsibility and where my skill and abilities will be fully utilized.
@@ -17,14 +19,5 @@ Skills: HTML / CSS/ JS/ PHP/ WORDPRESS
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=webcodernoyon)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webcodernoyon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=webcodernoyon&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webcodernoyon)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webcodernoyon)  
 
-![Profile views](https://gpvc.arturio.dev/webcodernoyon)  
