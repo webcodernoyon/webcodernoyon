@@ -1,8 +1,7 @@
-(https://media-exp1.licdn.com/dms/image/C4E16AQGNYBZ3TgPs_A/profile-displaybackgroundimage-shrink_350_1400/0/1638802525574?e=1666224000&v=beta&t=80UlAyP8Y-wFAJgcs6tgQRYW_KVQvuxcCh77UW6pNRY)
-
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGNYBZ3TgPs_A/profile-displaybackgroundimage-shrink_350_1400/0/1638802525574?e=1666224000&v=beta&t=80UlAyP8Y-wFAJgcs6tgQRYW_KVQvuxcCh77UW6pNRY)
 ### Hi there 👋, I'm Noyon Hossain
 #### Web Developer
-![Web Developer]
+
 
 Hi. I am a Professional website designer and developer. I have been designing and developing various category websites for a long time.
 To asses myself as a focused professional in creative and challenging environment using cutting edge technologies where I could constantly learn and successfully deliver solutions to problems with responsibility and where my skill and abilities will be fully utilized.
