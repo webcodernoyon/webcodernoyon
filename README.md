@@ -2,7 +2,7 @@
 # 💫 About Me:
 I'm Sumit, a Full Stack Web Application Developer from 🇧🇩 Bangladesh. To asses myself as a focused professional in creative and challenging environment using cutting edge technologies where I could constantly learn and successfully deliver solutions to problems with responsibility and where my skill and abilities will be fully utilized.
 
-<br>👉I’m currently working on FCTI SOFTWARE DEVELOPMENT COMPANY<br>👉I’m currently learning PHP<br>👉I’m looking to collaborate on github<br>👉Ask me about Web Development<br>
+<br>👉 I’m currently working on FCTI SOFTWARE DEVELOPMENT COMPANY<br>👉 I’m currently learning PHP<br>👉 I’m looking to collaborate on github<br>👉 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
